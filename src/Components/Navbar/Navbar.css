@@ -1,0 +1,17 @@
+.nav-item a{
+    margin: 20px;
+   
+    font-weight: 600;
+}
+.nav-item button{
+    margin: 20px;
+}
+.navbar img{
+    width: 170px;
+}
+.navbar button{
+    font-weight: 500;
+}
+.font{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
